@@ -609,3 +609,5 @@ frame = ar.from_arrow(data)
 print(frame.shape)
 # (3, 2)
 ```
+
+# TODO: issue #2469
