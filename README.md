@@ -732,3 +732,5 @@ arnio/
 <sub>Built with C++ and pybind11 · Licensed under MIT · Maintained by <a href="https://github.com/im-anishraj">@im-anishraj</a></sub>
 
 </div>
+
+# TODO: fix for #2072: Bug: auto_clean raises ValueError mid-pipeline when cast_types step is reached w
